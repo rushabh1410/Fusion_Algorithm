@@ -1,0 +1,7 @@
+/bin/
+/build/
+/cmake-build-debug/
+/CMakeLists.txt
+/.idea/
+/instruction.txt
+/doc/doxyfile
